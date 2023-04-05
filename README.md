@@ -1,3 +1,3 @@
 # Machine Learning Refreshers
 
-This repository consists of multiple implementations of various Machine Learning Algorithms with their specific nuances in data engineering.
+This repository consists implementations of various Machine Learning Algorithms serving as a quick refresher to their nuances.
