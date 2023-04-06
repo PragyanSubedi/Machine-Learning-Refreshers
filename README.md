@@ -35,3 +35,8 @@ This repository consists implementations of various Machine Learning Algorithms 
 - [x] Naive Bayes Classification
 - [x] Confusion Matrix
 - [x] Classification Report
+
+# Clustering
+
+- [x] K Means Clustering (With Elbow Method)
+- [x] Hierarchical Clustering (Agglomerative)
