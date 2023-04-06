@@ -23,7 +23,8 @@ This repository consists implementations of various Machine Learning Algorithms 
 - [x] Elastic Net Regression
 - [x] Pros and Cons of Regression Models
 - [x] Assumptions for Linear Regression
-
+- [x] Goodness of fit ($R^2$)
+ 
 # Classification 
 
 - [x] Logistic Regression
@@ -32,3 +33,5 @@ This repository consists implementations of various Machine Learning Algorithms 
 - [x] Random Forest Classification
 - [x] Support Vector Machine with Grid Search
 - [x] Naive Bayes Classification
+- [x] Confusion Matrix
+- [x] Classification Report
