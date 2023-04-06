@@ -23,3 +23,8 @@ This repository consists implementations of various Machine Learning Algorithms 
 - [x] Elastic Net Regression
 - [x] Pros and Cons of Regression Models
 - [x] Assumptions for Linear Regression
+
+# Classification 
+
+- [x] Logistic Regression
+- [ ] 
