@@ -31,4 +31,4 @@ This repository consists implementations of various Machine Learning Algorithms 
 - [x] Decision Tree Classification
 - [x] Random Forest Classification
 - [x] Support Vector Machine with Grid Search
-
+- [x] Naive Bayes Classification
