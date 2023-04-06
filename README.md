@@ -2,6 +2,13 @@
 
 This repository consists implementations of various Machine Learning Algorithms serving as a quick refresher to their nuances.
 
+# Data pre-processing
+
+- [x] Filling missing data
+- [x] Encoding categorical variables
+- [x] Feature Scaling
+- [x] Train/test split
+
 # Regression
 
 - [x] Quick Linear Regression Overview
