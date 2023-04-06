@@ -27,4 +27,8 @@ This repository consists implementations of various Machine Learning Algorithms 
 # Classification 
 
 - [x] Logistic Regression
-- [ ] 
+- [x] KNN Classification
+- [x] Decision Tree Classification
+- [x] Random Forest Classification
+- [x] Support Vector Machine with Grid Search
+
